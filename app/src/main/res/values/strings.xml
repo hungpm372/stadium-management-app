@@ -1,0 +1,87 @@
+<resources>
+
+    <!--  Common  -->
+    <string name="app_name">Stadium Management</string>
+    <string name="text_button_send">gửi</string>
+    <string name="text_button_close">Đóng</string>
+    <string name="text_button_update">Cập nhật</string>
+    <string name="text_button_add">Thêm</string>
+    <string name="text_toast_update_success">Cập nhật thành công</string>
+    <string name="text_toast_update_error">Cập nhật không thành công</string>
+    <string name="text_toast_add_success">Thêm thành công</string>
+    <string name="text_toast_add_error">Thêm không thành công</string>
+
+    <!--  Login Screen -->
+    <string name="title_login">Đăng nhập</string>
+    <string name="hint_email_login">Email</string>
+    <string name="hint_password_login">Mật khẩu</string>
+    <string name="text_button_login">Đăng nhập</string>
+    <string name="text_forgot_password"><u>Quên mật khẩu?</u></string>
+
+    <!--  Forgot Password Screen  -->
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="text_email_invalid">Email không hợp lệ</string>
+    <string name="text_send_email_error">Không thể gửi email đặt lại mật khẩu. Vui lòng kiểm tra lại địa chỉ email.</string>
+    <string name="text_send_email_success">Email đặt lại mật khẩu đã được gửi thành công. Vui lòng kiểm tra email của bạn.</string>
+
+    <!--  Main Screen  -->
+    <string name="text_button_logout">Đăng xuất</string>
+    <string name="bottom_sheet_title_main">Tài khoản</string>
+    <string name="text_user_info">Thông tin tài khoản</string>
+    <string name="text_change_pass">Thay đổi mật khẩu</string>
+    <string name="text_setting_app">Cài đặt ứng dụng</string>
+    <string name="text_help">Hỗ trợ</string>
+    <string name="hint_search_view">Tìm kiếm…</string>
+
+    <!--  Add Stadium Screen  -->
+    <string name="title_add_stadium">Thêm sân vận động</string>
+    <string name="text_upload_image">Nhấn để tải ảnh lên</string>
+
+    <!--  Change Password Screen  -->
+    <string name="title_change_password">Thay đổi mật khẩu</string>
+    <string name="hint_current_password">Mật khẩu hiện tại</string>
+    <string name="hint_new_password">Mật khẩu mới</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu mới</string>
+    <string name="text_password_empty_error">Vui lòng nhập đầy đủ thông tin.</string>
+    <string name="text_password_mismatched_error">Mật khẩu mới và xác nhận mật khẩu không khớp.</string>
+    <string name="text_password_change_error">Đổi mật khẩu không thành công.</string>
+    <string name="text_password_validate_error">Xác thực tài khoản không thành công.</string>
+    <string name="text_password_change_success">Đổi mật khẩu thành công.</string>
+
+    <!--  Stadium Detail Screen  -->
+    <string name="text_stadium_detail">Thông tin sân vận động</string>
+    <string name="text_facility_list">Cơ sở vật chất</string>
+    <string name="text_facility_playground">Sân chơi</string>
+    <string name="text_facility_stand">Khán đài</string>
+    <string name="text_facility_dressing_room">Phòng thay đồ</string>
+    <string name="text_facility_health_station">Phòng y tế</string>
+    <string name="text_facility_media">Phòng truyền thông</string>
+    <string name="bottom_sheet_title_stadium_detail">Tùy chọn</string>
+    <string name="dialog_status_title_stadium_detail">Cập nhật trạng thái</string>
+
+    <!--  Edit Stadium Screen  -->
+    <string name="title_update_stadium">Cập nhật sân vận động</string>
+    <string name="hint_stadium_name">Tên sân vận động</string>
+    <string name="hint_stadium_size">Kích thước</string>
+    <string name="hint_stadium_capacity">Sức chứa</string>
+    <string name="hint_stadium_repair">Sữa chữa lại</string>
+    <string name="hint_stadium_address">Địa chỉ</string>
+    <string name="text_name_error">Vui lòng nhập tên</string>
+    <string name="text_size_error">Vui lòng nhập kích thước</string>
+    <string name="text_capacity_error">Vui lòng nhập sức chứa</string>
+    <string name="text_repair_error">Vui lòng nhập thông tin sửa chữa</string>
+    <string name="text_address_error">Vui lòng nhập địa chỉ</string>
+
+    <!--  Facility Detail Screen  -->
+    <string name="text_facility_tab_image">Hình ảnh</string>
+    <string name="text_facility_tab_info">Chi tiết</string>
+
+    <!--  Stadium status  -->
+    <string-array name="stadium_status">
+        <item>Đang hoạt động</item>
+        <item>Bảo dưỡng</item>
+        <item>Trống</item>
+        <item>Ngừng hoạt động</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "218201410182",
+    "firebase_url": "https://stadium-management-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stadium-management",
+    "storage_bucket": "stadium-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218201410182:android:830ae7277750e6effb9f07",
+        "android_client_info": {
+          "package_name": "vn.id.phanminhhung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlnT2AWEggQPz0QunKhu9GSJg3ymIUGeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
